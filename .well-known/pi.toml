@@ -1,0 +1,6 @@
+[[CURRENCIES]]
+code   = "BLASTX"
+issuer = "GDKCRGBQPBJLWC5ZDLC66K7DVGHO5QX6REU3Z6AAPPAUHDO3362UVR7A"
+name   = "BLASTX Token"
+desc   = "BLASTX is een test utility token op Pi Testnet voor experimenten en demo-doeleinden. Het heeft geen echte monetaire waarde."
+image  = "https://toartje.github.io/blast-logo/.well-known/blast-logo.png"
